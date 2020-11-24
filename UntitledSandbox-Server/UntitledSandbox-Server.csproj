@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
+    <RootNamespace>UntitledSandbox_Server</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <PackageId>UntitledSandboxServer</PackageId>
+    <Authors>TheAirBlow</Authors>
+    <Copyright>(C) TheAirBlow 2020</Copyright>
+	<Name>Untitled Sanbox Server</Name>
+  </PropertyGroup>
+
+</Project>
