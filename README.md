@@ -8,7 +8,7 @@ What is this, actually? It is a server for my game Untitled Sandbox, check it ou
 
 Below you can read the instructions about using this.
 
-**WARNING: Main game is done but it is not uploaded yet. This is preparing for the game's release. Also currently multiplayer ing game is in beta state.**
+**WARNING: Main game is done but it is not uploaded yet. This is preparing for the game's release. Also currently multiplayer in-game is in beta state.**
 
 # Instructions
 
