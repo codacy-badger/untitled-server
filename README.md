@@ -8,6 +8,8 @@ What is this, actually? It is a server for my game Untitled Sandbox, check it ou
 
 Below you can read the instructions about using this.
 
+**WARNING: Main game is done but it is not uploaded yet. Also ingame-multiplayer is in development.**
+
 # Instructions
 
 For normal people:
